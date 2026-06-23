@@ -5,15 +5,15 @@ Welcome to the official release repository for **Desire**, a high-end, stealth o
 > 📥 **[CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/poshithNandyala/my-inv-app-releases/releases/latest)**
 
 > [!CAUTION]
-> **STRICT USAGE AGREEMENT & DISCLAIMER**
+> **LEGAL DISCLAIMER & STRICT ETHICAL USAGE POLICY**
 > 
-> By downloading and using this software, you explicitly agree to the following terms:
-> 1. **Personal Use Only**: This software is built strictly as an experimental overlay tool for personal, ethical use.
-> 2. **NO ILLEGAL USE**: You solemnly swear and agree **NOT** to use this application for cheating in academic settings, deception in professional interviews, bypassing proctoring software, or any other illegal or unethical activities.
-> 3. **No Liability**: The creator of this software holds absolutely zero liability for how you choose to use it. If you use this software to violate the terms of service of another platform, academic institution, or employer, you assume 100% of the risk and consequences.
-> 4. **Transparency**: The "stealth" features are designed to avoid screen clutter during valid streams and presentations. Using these features to deceive others is strictly prohibited.
+> **This software is provided "as is", strictly for educational, experimental, and personal productivity purposes. By downloading, compiling, or executing this software, you irrevocably agree to the following legally binding terms:**
 > 
-> **If you do not agree to these terms, do not download or use this software.**
+> 1. **Zero Tolerance for Fraud**: You are expressly prohibited from using this application to bypass proctoring software, cheat in academic examinations, deceive technical recruiters during interviews, or engage in any form of professional fraud. 
+> 2. **Complete Indemnification**: The creator of this software (**Poshith**) holds **absolute zero liability** for any damages, consequences, or legal actions resulting from the misuse of this tool. If you utilize this application to violate the Terms of Service of any platform, employer, or academic institution, you assume 100% of the legal, financial, and professional consequences.
+> 3. **No Malicious Intent**: The "stealth" overlay capabilities are engineered to reduce screen clutter for legitimate dual-monitor workflows, presentations, and streaming setups. The author explicitly disavows any usage of this software designed to deceive monitoring systems or individuals.
+> 
+> **If you do not agree to these terms, or intend to use this software for deceptive practices, you are legally obligated to close this page and delete the software immediately.**
 
 ---
 
