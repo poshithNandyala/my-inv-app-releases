@@ -51,5 +51,5 @@ Because the application is strictly invisible to the taskbar and screen capture,
 
 <div align="center">
   <br>
-  <h3>Built with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="30" height="30" style="vertical-align: middle;" /> by Poshith</h3>
+  <h3>Built with ❤️ by Poshith</h3>
 </div>
