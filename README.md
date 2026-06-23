@@ -4,6 +4,17 @@ Welcome to the official release repository for **Desire**, a high-end, stealth o
 
 > 📥 **[CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/poshithNandyala/my-inv-app-releases/releases/latest)**
 
+> [!CAUTION]
+> **STRICT USAGE AGREEMENT & DISCLAIMER**
+> 
+> By downloading and using this software, you explicitly agree to the following terms:
+> 1. **Personal Use Only**: This software is built strictly as an experimental overlay tool for personal, ethical use.
+> 2. **NO ILLEGAL USE**: You solemnly swear and agree **NOT** to use this application for cheating in academic settings, deception in professional interviews, bypassing proctoring software, or any other illegal or unethical activities.
+> 3. **No Liability**: The creator of this software holds absolutely zero liability for how you choose to use it. If you use this software to violate the terms of service of another platform, academic institution, or employer, you assume 100% of the risk and consequences.
+> 4. **Transparency**: The "stealth" features are designed to avoid screen clutter during valid streams and presentations. Using these features to deceive others is strictly prohibited.
+> 
+> **If you do not agree to these terms, do not download or use this software.**
+
 ---
 
 ## 🛠️ How to Use
@@ -31,13 +42,14 @@ Because the application is strictly invisible to the taskbar and screen capture,
 
 ---
 
-## ⚠️ STRICT USAGE AGREEMENT & DISCLAIMER
+## 📞 Community & Support
 
-By downloading and using this software, you explicitly agree to the following terms:
+- 💬 **[Join the WhatsApp Community](https://whatsapp.com/channel/0029Vb8SLy4GufIuaPcBUE2k)**
+- 🐛 **[Report Bugs & Request Features](https://github.com/poshithNandyala/desire/issues)**
 
-1. **Personal Use Only**: This software is built strictly as an experimental overlay tool for personal, ethical use.
-2. **NO ILLEGAL USE**: You solemnly swear and agree **NOT** to use this application for cheating in academic settings, deception in professional interviews, bypassing proctoring software, or any other illegal or unethical activities.
-3. **No Liability**: The creator of this software holds absolutely zero liability for how you choose to use it. If you use this software to violate the terms of service of another platform, academic institution, or employer, you assume 100% of the risk and consequences.
-4. **Transparency**: The "stealth" features are designed to avoid screen clutter during valid streams and presentations. Using these features to deceive others is strictly prohibited.
+---
 
-**If you do not agree to these terms, do not download or use this software.**
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Built+with+love+by+Poshith;High-End+Stealth+Overlay;Powered+by+Electron" alt="Typing SVG" />
+</div>
