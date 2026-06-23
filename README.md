@@ -51,5 +51,5 @@ Because the application is strictly invisible to the taskbar and screen capture,
 
 <div align="center">
   <br>
-  <h3>Built with ❤️ by Poshith</h3>
+  <h3>Built with ❤️ by <a href="https://github.com/poshithNandyala">Poshith</a></h3>
 </div>
