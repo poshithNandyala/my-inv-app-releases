@@ -4,6 +4,11 @@ Welcome to the official release repository for **Desire**, a high-end, stealth o
 
 > 📥 **[CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/poshithNandyala/my-inv-app-releases/releases/latest)**
 
+> [!NOTE]  
+> 🪟 **WINDOWS ONLY!**  
+> When you run the installer, Windows Defender might throw a scary blue "Windows protected your PC" popup saying it's from an "Unknown Publisher." Don't panic! It just says that because paying Microsoft $400 a year for a verified developer certificate is way too expensive for a free app! 💸  
+> The app is 100% safe. Just click **More Info** -> **Run Anyway** to install it.
+
 > [!CAUTION]
 > **LEGAL DISCLAIMER & STRICT ETHICAL USAGE POLICY**
 > 
