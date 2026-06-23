@@ -1,5 +1,7 @@
 # Desire Overlay System
 
+> A high-performance, completely invisible Windows overlay that allows you to securely monitor video streams directly on your desktop without appearing in screen shares or disrupting your workflow.
+
 Welcome to the official release repository for **Desire**, a high-end, stealth overlay application.
 
 > 📥 **[CLICK HERE TO DOWNLOAD THE LATEST RELEASE](https://github.com/poshithNandyala/my-inv-app-releases/releases/latest)**
@@ -42,7 +44,6 @@ Because the application is strictly invisible to the taskbar and screen capture,
 
 | Shortcut | Action | Description |
 | --- | --- | --- |
-| `Alt + L` | **Toggle Click-Through** | By default, the window is locked (click-through). Press this to "Unlock" the window to drag or resize it. |
 | `Alt + H` | **Panic Button (Hide/Show)** | Instantly throws the overlay off the screen so no one can see it. Press again to bring it back. |
 | `Alt + Shift + Up` | **Increase Opacity** | Makes the video feed darker and easier to see. |
 | `Alt + Shift + Down` | **Decrease Opacity** | Makes the video feed more transparent and harder to see. |
@@ -52,6 +53,7 @@ Because the application is strictly invisible to the taskbar and screen capture,
 | `Alt + Shift + Z` | **Hard Reset** | If you lose the window, press this to instantly reset it to the center of your screen with default size and opacity. |
 | `Alt + R` | **Reload Stream** | Silently refreshes the connection if your internet lags. |
 | `Alt + Q` | **Shutdown Sequence** | Initiates the cinematic cyber-shutdown and completely exits the application. |
+| `Alt + L` | **Toggle Click-Through** | By default, the window is locked (click-through). I think you don't need to use this. |
 
 ---
 
