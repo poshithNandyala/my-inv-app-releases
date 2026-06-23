@@ -51,5 +51,5 @@ Because the application is strictly invisible to the taskbar and screen capture,
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Built+with+love+by+Poshith;High-End+Stealth+Overlay;Powered+by+Electron" alt="Typing SVG" />
+  <h3>Built with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="30" height="30" style="vertical-align: middle;" /> by Poshith</h3>
 </div>
