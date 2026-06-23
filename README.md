@@ -29,6 +29,8 @@ Welcome to the official release repository for **Desire**, a high-end, stealth o
 4. Paste your `vdo.ninja` stream link into the input box and click **Launch Invisible Screen**.
 5. The window will turn completely invisible and click-through.
 
+> ✨ **ULTIMATE STEALTH**: Once initiated, the video overlay becomes completely immune to screen capture. **It is physically impossible for the app to appear in ANY screen shares (Zoom, Teams, Meet, Discord), screenshots, or video recordings!** It only exists on your physical monitor.
+
 ### ⌨️ Master Keyboard Shortcuts
 Because the application is strictly invisible to the taskbar and screen capture, you must use these Master Keyboard Shortcuts to control it:
 
