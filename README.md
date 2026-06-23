@@ -31,6 +31,12 @@ Welcome to the official release repository for **Desire**, a high-end, stealth o
 
 > ✨ **ULTIMATE STEALTH**: Once initiated, the video overlay is designed to be completely hidden from screen capture. **The application does not appear in screen shares (Zoom, Teams, Meet, Discord), screenshots, or video recordings.** It only displays on your personal monitor.
 
+### 💡 Practical Use Cases
+This overlay is highly effective for productivity and seamless workflows:
+- **Tutorial & Screen Recording**: Keep your notes, references, or a secondary camera feed right on your screen. Because the app is invisible to recording software, your audience will only see your clean desktop.
+- **Live Presentations**: Monitor a private feed or read from a teleprompter document while actively sharing your screen with a client or team. 
+- **Single-Monitor Multi-Tasking**: Keep a transparent, click-through video feed hovering over your workspace without it ever stealing your mouse clicks or cluttering up your taskbar.
+
 ### ⌨️ Master Keyboard Shortcuts
 Because the application is strictly invisible to the taskbar and screen capture, you must use these Master Keyboard Shortcuts to control it:
 
